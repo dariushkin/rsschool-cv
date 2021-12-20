@@ -1,2 +1,1 @@
-# rsschool-cv
-Curriculum vitae
+https://dariushkin.github.io/rsschool-cv/cv
