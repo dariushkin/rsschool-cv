@@ -1,6 +1,11 @@
 # Daria Komarova
 ## Front-end Developer
 *****************************
+### Profile
+Junior Frontend Developer (not really yet) with no commercial experience, but with a genuine interest in web development. Several months of self-education in basic HTML, CSS, JS make me more confident in my choice to continue learning deeper these Frontend Developer’s professional competencies. 
+There is an old proverb that describes my goals for further learning front-end development:
+
+> "We do hope, that all our initiatives will have their bright future. After all "you just have to keep putting one foot in front of the other".
 
 ### Location
 * Russia, Moscow
