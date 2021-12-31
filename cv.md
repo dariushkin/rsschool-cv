@@ -1,5 +1,5 @@
 # Daria Komarova
-## Front-end Developer
+## Junior Front-end Developer
 *****************************
 ### Profile
 Junior Frontend Developer (not really yet) with no commercial experience, but with a genuine interest in web development. Several months of self-education in basic HTML, CSS, JS make me more confident in my choice to continue learning deeper these Frontend Developer’s professional competencies. 
@@ -14,6 +14,10 @@ There is an old proverb that describes my goals for further learning front-end d
 * E-mail: darya95kom@mail.ru
 * Discord: Daria (@dariushkin)
 * Github: dariushkin
+
+### Languages
+* Russian - Native speaker
+* English  - A2 level
 
 ### Education
 * HTML Academy
@@ -35,10 +39,6 @@ let greet = function () {
 
 greet();
 ```
-
-### Languages
-* Russian - Native speaker
-* English  - A2 level
 
 ### Projects
 
